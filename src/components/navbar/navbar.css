@@ -1,0 +1,110 @@
+.navbar-container {
+    background: #1f2833;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    z-index: 5;
+}
+
+.navbar-links-container {
+    font-family: var(--font-family);
+    display: flex;
+    justify-content: space-around;
+    column-gap: 25px;
+}
+
+.navbar-links-container p {
+    font-weight: 500;
+    font-size: 16px;
+    margin: 0px;
+    text-transform: capitalize;
+}
+
+.navbar-links-container a {
+    text-decoration: none;
+    color: #66fcf1;
+    padding: 5px 5px;
+    margin: 5px 0px;
+    justify-content: center;
+    width: 100px;
+    letter-spacing: .1em;
+}
+
+.navbar-logo-in {
+    font-weight: 1000;
+    font-size: 30px;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: #66fcf1;
+}
+
+
+.navbar-links-container a:hover {
+    background: #66fcf1;
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 100px;
+    text-shadow: 0 1px 1px 1px#000000, 0 1px 1px 1px #040404;
+    box-shadow: 0px 2px 2px 2px#45A29E;
+}
+
+.navbar-menu_container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    text-align: center;
+    background: #1f2833;
+    position: absolute;
+    right: 0;
+    top: 40px;
+    min-width: 100px;
+    border-radius: 5px;
+}
+
+.navbar-menu-ontainer-links a {
+    text-decoration: none;
+    color: #66fcf1;
+    padding: 5px 5px;
+    margin: 5px 0px;
+    justify-content: center;
+    width: 100px;
+    letter-spacing: .1em;
+    cursor: pointer;
+}
+
+.navbar-menu {
+    cursor: pointer;
+    position: relative;
+    display: none;
+}
+
+.navbar-menu-ontainer-links a:hover {
+    background: #66fcf1;
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 100px;
+    text-shadow: 0 1px 1px 1px#000000, 0 1px 1px 1px #040404;
+    box-shadow: 0px 2px 2px 2px#45A29E;
+}
+
+@media screen and (max-width: 700px) {
+    .navbar-links-container {
+        column-gap: 15px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .navbar-links-container {
+        display: none;
+    }
+
+    .navbar-menu {
+        display: flex;
+    }
+}

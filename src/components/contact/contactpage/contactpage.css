@@ -1,0 +1,121 @@
+.contactpage-container {
+    width: 100%;
+    height: 100%;
+    padding: 50px 0px;
+    font-family: var(--font-family);
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+}
+
+.contactpage-header {
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactpage-hr {
+    background: #45a29e;
+    margin: 0px 10px;
+    width: 150px;
+    height: 10px;
+}
+
+.contactpage-tagline {
+    color: #c5c6c7;
+}
+
+.contactpage-tagline-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: nowrap;
+    margin: 0px 100px;
+}
+
+.contactpage-button {
+    color: #66fcf1;
+    background: #1f2833;
+    border: 1px solid #66fcf1;
+    width: 75px;
+    height: 20px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+}
+
+
+.contactpage-button:hover {
+    transform: scale(1.2);
+    box-shadow: 1px #66fcf1;
+}
+
+.contactpage-links-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0px;
+}
+
+.contactpage-links-container * {
+    margin: 0px 5px;
+}
+
+@media screen and (max-width: 550px) {
+
+    .contactpage-header span {
+        font-size: 20px;
+    }
+
+    .contactpage-hr {
+        width: 100px;
+    }
+
+
+    .contactpage-tagline-container {
+        margin: 0px 30px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .contactpage-hr {
+        width: 70px;
+    }
+
+    .contactpage-tagline {
+        font-size: 18px;
+    }
+
+    .contactpage-tagline-container {
+        margin: 0px 10px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .contactpage-header span {
+        font-size: 16px;
+    }
+
+
+    .contactpage-hr {
+        width: 30px;
+    }
+
+    .contactpage-tagline {
+        font-size: 12px;
+    }
+
+    .contactpage-tagline-container {
+        margin: 0px 5px;
+    }
+}
+
+@media screen and (max-width: 250px) {
+    .contactpage-hr {
+        display: none;
+    }
+
+}

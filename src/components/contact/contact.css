@@ -1,0 +1,46 @@
+.contact-container {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    left: 0;
+    top: 200px;
+}
+
+.contact-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+}
+
+.contact-icon:hover {
+    transform: scale(1.2);
+    box-shadow: 1px #66fcf1;
+}
+
+.contact-icon-linkedin {
+    transition: transform 0.3s ease-in-out;
+}
+
+.contact-icon-linkedin:hover {
+    transform: scale(1.2);
+}
+
+.contact-icon-email {
+    transition: transform 0.3s ease-in-out;
+}
+
+.contact-icon-email:hover {
+    transform: scale(1.2);
+}
+
+.contact-icon-github {
+    transition: transform 0.3s ease-in-out;
+}
+
+.contact-icon-github:hover {
+    transform: scale(1.2);
+}
