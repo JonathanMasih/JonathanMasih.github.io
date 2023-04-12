@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.14322b21.chunk.css",
-  "main.js": "/static/js/main.e3c48348.chunk.js",
-  "main.js.map": "/static/js/main.e3c48348.chunk.js.map",
+  "main.css": "/static/css/main.e37dcea8.chunk.css",
+  "main.js": "/static/js/main.a1644ba0.chunk.js",
+  "main.js.map": "/static/js/main.a1644ba0.chunk.js.map",
   "static/js/1.0f42ad21.chunk.js": "/static/js/1.0f42ad21.chunk.js",
   "static/js/1.0f42ad21.chunk.js.map": "/static/js/1.0f42ad21.chunk.js.map",
   "static/js/2.5a9c9280.chunk.js": "/static/js/2.5a9c9280.chunk.js",
@@ -17,8 +17,8 @@
   "static/media/EmployeManagement-picture2.png": "/static/media/EmployeManagement-picture2.5da8341b.png",
   "static/media/spaceinvaders-pictrue.png": "/static/media/spaceinvaders-pictrue.6dbbfb90.png",
   "static/media/spaceinvaders-pictrue2.png": "/static/media/spaceinvaders-pictrue2.97ed42f9.png",
-  "static/css/main.14322b21.chunk.css.map": "/static/css/main.14322b21.chunk.css.map",
+  "static/css/main.e37dcea8.chunk.css.map": "/static/css/main.e37dcea8.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.49c2893f555fd08411a431d01675e771.js": "/precache-manifest.49c2893f555fd08411a431d01675e771.js",
+  "precache-manifest.3aa74a3c488cc6a3dddbe620116e1ff2.js": "/precache-manifest.3aa74a3c488cc6a3dddbe620116e1ff2.js",
   "service-worker.js": "/service-worker.js"
 }
