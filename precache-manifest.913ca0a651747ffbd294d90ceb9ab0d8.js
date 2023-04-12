@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/static/media/spaceinvaders-pictrue2.97ed42f9.png"
   },
   {
-    "revision": "3977137d816835fd9567abd88712a548",
+    "revision": "7eb17a9c156b6d0fc1ff8b16fbd6b84f",
     "url": "/index.html"
   }
 ];
