@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "7642c5c52664052cff46",
-    "url": "/static/css/main.75aeab5c.chunk.css"
+    "revision": "68668165964741d2e670",
+    "url": "/static/css/main.473d3c74.chunk.css"
   },
   {
-    "revision": "7642c5c52664052cff46",
-    "url": "/static/js/main.7642c5c5.chunk.js"
+    "revision": "68668165964741d2e670",
+    "url": "/static/js/main.68668165.chunk.js"
   },
   {
-    "revision": "0f42ad21f20e3536abc0",
-    "url": "/static/js/1.0f42ad21.chunk.js"
+    "revision": "e04cd450e9824253c1bd",
+    "url": "/static/js/1.e04cd450.chunk.js"
   },
   {
-    "revision": "5a9c9280905acaa65220",
-    "url": "/static/js/2.5a9c9280.chunk.js"
+    "revision": "2ebc70cc7a507b96cf92",
+    "url": "/static/js/2.2ebc70cc.chunk.js"
   },
   {
-    "revision": "04a7b79e592687f4feae",
-    "url": "/static/js/runtime~main.04a7b79e.js"
+    "revision": "71b23b6215511af73d94",
+    "url": "/static/js/runtime~main.71b23b62.js"
   },
   {
     "revision": "7e711862a78eaf305bed91765c36efe6",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/static/media/spaceinvaders-pictrue2.97ed42f9.png"
   },
   {
-    "revision": "4fef0bcf54846a963628cf898310133e",
+    "revision": "5fb6bce4f98f4351fb71c5fd6e33948e",
     "url": "/index.html"
   }
 ];
