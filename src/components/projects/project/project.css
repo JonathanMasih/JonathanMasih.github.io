@@ -1,12 +1,12 @@
 .project-container {
     width: 200px;
-    height: 260%;
+    height: 260px;
     background: #000;
     margin: 10px 10px;
     padding: 10px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     transition: transform 0.3s ease-in-out;
 }

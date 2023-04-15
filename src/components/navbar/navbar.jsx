@@ -1,15 +1,16 @@
 import React, { useState } from 'react';
 import './navbar.css'
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
+import { Link } from 'react-scroll';
 
 const Menu = () => {
     return (
-        <>
-            <p><a href="#home">Home</a></p>
-            <p><a href="#about">About</a></p>
-            <p><a href="#projects">Projects</a></p>
-            <p><a href="#blog">References</a></p>
-        </>
+        <div className='navbar-container-menu'>
+            <p><Link to="home" smooth={true}>Home</Link></p>
+            <p><Link to="about" smooth={true}>About</Link></p>
+            <p><Link to="projects" smooth={true}>Projects</Link></p>
+            <p><Link to="contact" smooth={true}>Contact</Link></p>
+        </div>
     )
 }
 
@@ -20,12 +21,14 @@ function Navbar() {
 
     return (
         <div className='navbar-container'>
-            <p className='navbar-logo-in'>JM</p>
+            <a className='narbar-logo' href="https://jonathanmasih.github.io/"><p className='navbar-logo-in'>JM</p></a>
             <div className='navbar-links-container'>
-                <p><a href="#home">Home</a></p>
-                <p><a href="#about">About</a></p>
-                <p><a href="#projects">Projects</a></p>
-                <p><a href="#contact">Contact</a></p>
+
+                <p><Link className='navbar-link' to="home" smooth={true}>Home</Link></p>
+                <p><Link className='navbar-link' to="about" smooth={true}>About</Link></p>
+                <p><Link className='navbar-link' to="projects" smooth={true}>Projects</Link></p>
+                <p><Link className='navbar-link' to="contact" smooth={true}>Contact</Link></p>
+
             </div>
             <div className='navbar-menu'>
                 {toggleMenu ?
