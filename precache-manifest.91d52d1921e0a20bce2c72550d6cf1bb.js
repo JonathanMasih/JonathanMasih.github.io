@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a795c3e88f0780423725",
-    "url": "/static/css/main.a9e76592.chunk.css"
+    "revision": "4604d44c5fe91195aa86",
+    "url": "/static/css/main.bef76f2d.chunk.css"
   },
   {
-    "revision": "a795c3e88f0780423725",
-    "url": "/static/js/main.a795c3e8.chunk.js"
+    "revision": "4604d44c5fe91195aa86",
+    "url": "/static/js/main.4604d44c.chunk.js"
   },
   {
     "revision": "e04cd450e9824253c1bd",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/static/media/spaceinvaders-pictrue2.97ed42f9.png"
   },
   {
-    "revision": "4c5f256ddafdfcf4dfa45e2076972438",
+    "revision": "0ca662c6d5d867e497b345fe4de958fb",
     "url": "/index.html"
   }
 ];
