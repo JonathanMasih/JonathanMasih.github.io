@@ -7,11 +7,11 @@ const outdoorsImage2 = require("../../assets/images/outdoor-picture2.jpg");
 function About() {
     return (
         <div className='about-container' id='about'>
-            <h2 className='about-header'>
+            <h1 className='about-header'>
                 <div className='about-hr' ></div>
                 <span>Get to Know Me</span>
                 <div className='about-hr' ></div>
-            </h2>
+            </h1>
             <div className='about-bio-container'>
                 <div className='about-bio-container-image'>
                     <img className='about-bio-image' src={outdoorsImage1} alt="Image of Jonathan Masih after a hike" />

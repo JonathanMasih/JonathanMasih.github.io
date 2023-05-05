@@ -6,11 +6,11 @@ import { AiOutlineMail } from 'react-icons/ai';
 function Contactpage() {
     return (
         <div className='contactpage-container' id='contact'>
-            <h2 className='contactpage-header'>
+            <h1 className='contactpage-header'>
                 <div className='contactpage-hr' ></div>
                 <span>Get in touch</span>
                 <div className='contactpage-hr' ></div>
-            </h2>
+            </h1>
             <div className='contactpage-tagline-container'>
                 <p className='contactpage-tagline'>
                     I am currently looking for Full-time opportunities, my inbox is always open.

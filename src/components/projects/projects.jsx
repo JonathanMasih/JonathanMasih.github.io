@@ -14,11 +14,11 @@ const profileImage6 = require("../../assets/images/spaceinvaders-pictrue2.png");
 function Projects() {
     return (
         <div className='projects-container' id='projects'>
-            <h2 className='projects-header'>
+            <h1 className='projects-header'>
                 <div className='projects-hr' ></div>
                 <span>My Work</span>
                 <div className='projects-hr' ></div>
-            </h2>
+            </h1>
             <div className='projects-cards'>
                 <Project
                     projectLink={'https://github.com/JonathanMasih/ReactApplication'}
