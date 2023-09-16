@@ -34,7 +34,7 @@
 
 
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 900px) {
     .projects-cards {
         flex-direction: column;
     }
