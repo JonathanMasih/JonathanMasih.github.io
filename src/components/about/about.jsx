@@ -27,7 +27,7 @@ function About() {
                         As a developer, I love to learn and solve complex problems. I am always eager to take on new challenges and push myself to improve my skills.
                     </p>
                     <p className='about-bio'>
-                        In my previous internships, I had the opportunity to work on projects such as building web applications. These experiences have taught me the
+                        In my work experience, I had the opportunity to work on projects such as building web applications. These experiences have taught me the
                         importance of teamwork, communication, and attention to detail in delivering high-quality software products.
                         When I'm not coding, I enjoy playing sports and spending time outdoors. I also volunteer in my local church,
                         which has been a rewarding experience for me. I am excited about the opportunity to continue learning and
