@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "6bfdf49add9afbfe4caf",
-    "url": "/static/css/main.578ee0de.chunk.css"
+    "revision": "9f78c73b280ecc0fc0a7",
+    "url": "/static/css/main.c986586c.chunk.css"
   },
   {
-    "revision": "6bfdf49add9afbfe4caf",
-    "url": "/static/js/main.6bfdf49a.chunk.js"
+    "revision": "9f78c73b280ecc0fc0a7",
+    "url": "/static/js/main.9f78c73b.chunk.js"
   },
   {
-    "revision": "766be002cfdbb69832ec",
-    "url": "/static/js/1.766be002.chunk.js"
+    "revision": "e04cd450e9824253c1bd",
+    "url": "/static/js/1.e04cd450.chunk.js"
   },
   {
     "revision": "2ebc70cc7a507b96cf92",
     "url": "/static/js/2.2ebc70cc.chunk.js"
   },
   {
-    "revision": "2edce5644cc7873975af",
-    "url": "/static/js/runtime~main.2edce564.js"
+    "revision": "71b23b6215511af73d94",
+    "url": "/static/js/runtime~main.71b23b62.js"
   },
   {
     "revision": "7e711862a78eaf305bed91765c36efe6",
@@ -56,15 +56,7 @@ self.__precacheManifest = [
     "url": "/static/media/spaceinvaders-pictrue2.97ed42f9.png"
   },
   {
-    "revision": "9c67e20c7076ad6b06f508345891548f",
-    "url": "/static/media/chirp-pic1.9c67e20c.PNG"
-  },
-  {
-    "revision": "a328ce27b7eebfcbe8d6292227d5f7dc",
-    "url": "/static/media/chirp-pic2.a328ce27.PNG"
-  },
-  {
-    "revision": "fc0aa5e166423e1451b5875671ca254f",
+    "revision": "aee10021f5d8f150885042fc24e7a86a",
     "url": "/index.html"
   }
 ];
