@@ -19,15 +19,15 @@ function About() {
                 </div>
                 <div className='about-bio-paragraphs'>
                     <p className='about-bio'>
-                        I am a senior at Siena College majoring in Computer Science. I have a passion for full-stack development and
-                        have gained valuable experience through several internships in the field. During my time at Siena, I have
+                        I am a graduate from Siena College majoring in Computer Science. I have a passion for full-stack development and
+                        have gained valuable experience in the field. During my time at Siena, through work experience and personal projects, I have
                         developed a strong foundation in programming languages such as&nbsp;<span className='about-skills'>Java, and JavaScript</span>.&nbsp;
                         Additionally, I have experience in front-end technologies like&nbsp;<span className='about-skills'>HTML, CSS, Angular, React, and TypeScript</span>.&nbsp;
                         as well as back-end technologies such as&nbsp; <span className='about-skills'>Spring and SQL databases</span>.&nbsp;
                         As a developer, I love to learn and solve complex problems. I am always eager to take on new challenges and push myself to improve my skills.
                     </p>
                     <p className='about-bio'>
-                        In my previous internships, I had the opportunity to work on projects such as building web applications. These experiences have taught me the
+                        In my work experience, I had the opportunity to work on projects such as building web applications. These experiences have taught me the
                         importance of teamwork, communication, and attention to detail in delivering high-quality software products.
                         When I'm not coding, I enjoy playing sports and spending time outdoors. I also volunteer in my local church,
                         which has been a rewarding experience for me. I am excited about the opportunity to continue learning and

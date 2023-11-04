@@ -11,6 +11,11 @@ const profileImage4 = require("../../assets/images/EmployeManagement-picture2.pn
 const profileImage5 = require("../../assets/images/spaceinvaders-pictrue.png");
 const profileImage6 = require("../../assets/images/spaceinvaders-pictrue2.png");
 
+
+const profileImage8 = require("../../assets/images/chirp-pic1.PNG");
+const profileImage9 = require("../../assets/images/chirp-pic2.PNG");
+
+
 function Projects() {
     return (
         <div className='projects-container' id='projects'>
@@ -20,6 +25,13 @@ function Projects() {
                 <div className='projects-hr' ></div>
             </h1>
             <div className='projects-cards'>
+                <Project
+                    projectLink={'https://chrip-snowy.vercel.app/'}
+                    projectName={'Chirp'}
+                    image={profileImage8}npm
+                    image2={profileImage9}
+                    projectDes={'Twitter-like clone,users make posts using emojis.'}
+                    projectLan={'Nextjs, Prisma(DB), React, Typescript, HTML, TailwindCSS'} />
                 <Project
                     projectLink={'https://github.com/JonathanMasih/ReactApplication'}
                     projectName={'Gpt-3 Challenge'}
