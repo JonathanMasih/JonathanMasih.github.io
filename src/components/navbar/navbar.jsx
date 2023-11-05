@@ -8,6 +8,7 @@ const Menu = () => {
         <div className='navbar-container-menu'>
             <p><Link to="home" smooth={true}>Home</Link></p>
             <p><Link to="about" smooth={true}>About</Link></p>
+            <p><Link to="experience" smooth={true}>Experience</Link></p>
             <p><Link to="projects" smooth={true}>Projects</Link></p>
             <p><Link to="contact" smooth={true}>Contact</Link></p>
         </div>
@@ -26,6 +27,7 @@ function Navbar() {
 
                 <p><Link className='navbar-link' to="home" smooth={true}>Home</Link></p>
                 <p><Link className='navbar-link' to="about" smooth={true}>About</Link></p>
+                <p><Link to="experience" smooth={true}>Experience</Link></p>
                 <p><Link className='navbar-link' to="projects" smooth={true}>Projects</Link></p>
                 <p><Link className='navbar-link' to="contact" smooth={true}>Contact</Link></p>
 
