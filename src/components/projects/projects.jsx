@@ -47,7 +47,7 @@ function Projects() {
                     projectDes={'Basic api with CRUD operations with a Frontend.'}
                     projectLan={'React, HTML, CSS, REST API, Java Spring'} />
                 <Project
-                    projectLink={'https://github.com/JonathanMasih/EmployeeManagement'}
+                    projectLink={'https://github.com/JonathanMasih/SpaceInvadersBr'}
                     projectName={'SpaceInvaders'}
                     image={profileImage5}
                     image2={profileImage6}
